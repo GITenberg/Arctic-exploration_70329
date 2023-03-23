@@ -1,0 +1,27 @@
+_repo: Arctic-exploration_70329
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoare, Douglas
+    gutenberg_agent_id: '55706'
+    url: http://www.gutenberg.org/2009/agents/55706
+description: ''
+gutenberg_issued: '2023-03-21'
+identifiers:
+  gutenberg: '70329'
+language: en
+pgterms:marc904: https://archive.org/details/arcticexploratio00hoar/page/212/mode/2up
+pgterms:marc905: 20201101042417hoare
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Bob Taylor, Brian Coe and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by the Library of Congress)
+publication_note: '  $aUnited States :$bE, P, Dutton & Co, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Arctic exploration
+url: http://www.gutenberg.org/ebooks/70329
